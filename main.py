@@ -787,6 +787,7 @@ def volver_menu_callback(valor):
     
     GLUT.glutPostRedisplay()
 
+
 # funcion que dibuja todo en la pantalla
 def display():
     # Funcion que dibuja todo, se llama automaticamente muchas veces por segundo

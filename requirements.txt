@@ -1,0 +1,19 @@
+# Para instalar todas las dependencias, ejecutar:
+#   pip install -r requirements.txt
+#
+# O si usas Python 3 especificamente:
+#   pip3 install -r requirements.txt
+# PyOpenGL - Biblioteca principal de OpenGL para Python
+# Version instalada en el sistema del profe es  3.1.10
+PyOpenGL==3.1.10
+
+# PyOpenGL-accelerate - Aceleraciones opcionales (mejora rendimiento)
+# Esta es opcional pero recomendada
+PyOpenGL-accelerate>=3.1.5
+# NumPy - Para operaciones matemáticas con matrices y vectores
+# (util para rotaciones, transformaciones, etc.)
+# Version instalada en el sistema del profe es 2.2.0
+numpy==2.2.0
+
+# Pygame - Para reproduccion de sonidos en el juego
+pygame>=2.0.0

@@ -18,7 +18,7 @@
 class Tablero:
 
     def __init__(self, ancho=10, alto=20, profundidad=10):
-        #Crea un nuevo tablero vacio.
+        #Crea un nuevo tablero vacio 
         self.ancho = ancho
         self.alto = alto
         self.profundidad = profundidad

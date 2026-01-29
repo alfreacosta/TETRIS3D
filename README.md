@@ -3,7 +3,7 @@
 
 Tetris 3D es un video juego  desarrollado en Python utilizando PyOpenGL y NumPy. El objetivo es jugar Tetris en un tablero tridimensional, rotando y moviendo piezas en los tres ejes.
 
-## Lenguajes y tecnologias
+## Lenguajes utilizado
 - Python 3.8+
 - PyOpenGL
 - NumPy
@@ -13,6 +13,8 @@ Tetris 3D es un video juego  desarrollado en Python utilizando PyOpenGL y NumPy.
 - PyOpenGL >= 3.1.5
 - NumPy >= 1.19.0
 - Pygame >= 2.0.0
+
+
 ## Instalacion
 
 ```bash
@@ -59,6 +61,6 @@ python3 main.py
 - Sistema de puntuacion
 
 ---
-Proyecto final - Informatica 3 (2025)
+Proyecto final - Info 3 (2025)
 
 ---
